@@ -2,7 +2,7 @@
     <div class="home">
         <div class="row">
             <div class="col">
-                <h1>About</h1>
+                <h1>Contact</h1>
             </div>
         </div>
     </div>
@@ -10,7 +10,7 @@
 
 <script>
 export default {
-    name: "About"
+    name: "Contact"
 }
 </script>
 

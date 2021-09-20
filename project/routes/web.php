@@ -20,8 +20,6 @@ Route::get('clear', function(){
     Artisan::call('view:cache');
 });
 
-Route::get('/', 'HomeController@index')->name('homepage');
-
 Auth::routes();
 
 Route::middleware('auth')->namespace('Admin')->prefix('admin')->name('admin.')
