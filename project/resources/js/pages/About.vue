@@ -2,7 +2,7 @@
     <div class="home">
         <div class="row">
             <div class="col">
-                <h1>About</h1>
+                <h1 class="m-5">About</h1>
             </div>
         </div>
     </div>
